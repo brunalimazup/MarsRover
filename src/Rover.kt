@@ -1,0 +1,1 @@
+data class Rover(var x: Int, var y: Int, var direction: Direction )
